@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605248927200",
+    "project_id": "cezar-s-chatapplication",
+    "storage_bucket": "cezar-s-chatapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605248927200:android:f68046a4a9ced273c2a785",
+        "android_client_info": {
+          "package_name": "com.cezar.cezarschatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605248927200-fo4p9ufqkli5d9jbhbt70ajhjsv7dac5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBJx_8wIBHS1IFc8NG6xjm2Q-u6Uz0iVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605248927200-fo4p9ufqkli5d9jbhbt70ajhjsv7dac5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
